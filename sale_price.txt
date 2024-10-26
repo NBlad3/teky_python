@@ -1,0 +1,6 @@
+Computer, 2 500, 2 250
+Oneplus 12, 900, 810
+Ferrari Enzo, 200 000, 180 000
+Lamborghini Hurracan, 200 000, 180 000
+Lego Star Wars Set, 50, 45
+RTX 4090, 1 000, 900
